@@ -17,9 +17,8 @@ HTML5: Provides the structure of the menu.
 CSS3: Adds styling to make the menu visually appealing.
 
 How to Use
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/your-username/hotel-menu-html.git.
 
-Open the HTML File: Navigate to the project directory and open index.html in your web browser to view the menu.
+Open the HTML File: Navigate to the link I mentioned https://retrofood.vercel.app/
 
 Customize: Feel free to modify the HTML and CSS files to suit your needs.
 Sections Included
